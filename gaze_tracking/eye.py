@@ -4,6 +4,7 @@ import cv2
 from .pupil import Pupil
 
 
+
 class Eye(object):
     """
     This class creates a new frame to isolate the eye and
